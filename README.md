@@ -1,6 +1,6 @@
 # 🧠 AWS Serverless Image Recognition App
 
-This is a fully serverless AWS project that uses Amazon Rekognition to detect labels in images uploaded to an S3 bucket. The solution is built with S3,Lambda (Python), API Gateway, IAM, and CloudWatch**.
+This is a fully serverless AWS project that uses Amazon Rekognition to detect labels in images uploaded to an S3 bucket. The solution is built with S3,Lambda (Python), API Gateway, IAM, and CloudWatch.
 
 ---
 
